@@ -6,7 +6,6 @@
 
 $(document).ready(function() {
 
-     document.body.style.zoom = "90%" 
 
      particlesJS('particles-js',
   
@@ -648,9 +647,9 @@ $(document).ready(function() {
 	  mediumZoom
     -------------------------------------------------------------------*/
   
-    mediumZoom('[data-zoom]', {
-        margin: 30
-    });
+    // mediumZoom('[data-zoom]', {
+    //     margin: 30
+    // });
 
 	
     /*-----------------------------------------------------------------
